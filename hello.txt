@@ -4,4 +4,4 @@ hello git
 hello git
 hello git
 hotfix add
-hotfix add2
+hotfix add2 hotfix add string
